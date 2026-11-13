@@ -1,2 +1,2 @@
-sqlalchemy
-psycopg2
+sqlalchemy<2.0.36
+psycopg2-binary
